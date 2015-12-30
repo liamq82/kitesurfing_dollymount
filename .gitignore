@@ -1,5 +1,6 @@
 # ignore this folder
 test/
+lib/
 
 # Windows image file caches
 Thumbs.db
