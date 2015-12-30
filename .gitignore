@@ -1,5 +1,5 @@
 # ignore this folder
-.testing/
+test/
 
 # Windows image file caches
 Thumbs.db
