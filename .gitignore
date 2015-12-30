@@ -1,6 +1,5 @@
 # ignore this folder
-test/
-lib/
+app/node_modules
 
 # Windows image file caches
 Thumbs.db
